@@ -1,0 +1,2 @@
+# PineBOT
+Bot dla pineapple
